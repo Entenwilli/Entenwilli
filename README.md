@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Entenwilli
 - 👀 I’m interested in coding little programs for myself
-- 🌱 I’m currently learning TypeScript and Java
+- 📖 I am currently studying at the Karlsruher Institute of Technology
+- ⌨️ I am proficient in Java and the TeX Typesetting Language
+- 🌱 I’m currently learning the Rust Programming Language
 
 <!---
 Entenwilli/Entenwilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
