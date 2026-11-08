@@ -7,6 +7,10 @@
 <p><a href="https://github.com/DataFlowAnalysis"><img src="logos/xdcaf-logo.png" height=48 align=left></a><b>xDECAF -  Data Flow Analysis</b><br>
 Architecture-based confidentiality analysis framework for information security. I helped developing the analysis since 2022.</p>
 
+<p><a href="https://github.com/MOCCAVI/ContextAwareAnalysisFramework"><img src="logos/moccavi.png" height=48 align=left></a><b>MOCCAVI</b><br>
+Part of my master's thesis implementing a context aware analysis framework for xDECAF.</p>
+
+
 <p><a href="https://github.com/abunai-dev/ABUNAI"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
 Architecture-based and uncertainty-aware confidentiality analysis, I helped to develop and update.</p>
 
